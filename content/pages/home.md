@@ -1,5 +1,13 @@
 ---
 blocks:
+  - body: >-
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.
+      Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse
+      urna nibh, viverra non, semper suscipit, posuere a, pede.
+
+
+      ![](http://res.cloudinary.com/dxqan3cxj/image/upload/v1632305905/samples/animals/kitten-playing.gif)
+    _template: content
   - tagline: ''
     headline: BAR
     text: >
